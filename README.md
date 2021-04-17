@@ -1,4 +1,4 @@
-<div><image src="logo.jpg#pic_center" width="500" /></div>
+<div><image src="logo.jpg#pic_center" width="200" /></div>
 
 # YHContract
 
